@@ -5,4 +5,4 @@ Master of Computer Science student, Wilfrid Laurier University
 
 Consultant, Headache Sciences
 
-[ORCID iD] () | [ResearchGate]()
+[ORCID iD](id.org/my-orcid?orcid=0000-0002-0577-2689) | [ResearchGate](https://www.researchgate.net/profile/Johnny-Console)
