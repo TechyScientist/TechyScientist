@@ -11,6 +11,8 @@ Standard First Aid/CPR Level C/AED (St. John Ambulance Ontario Council)
 
 Certificate of Proficiency in Amateur Radio (Innovation, Science and Economic Development Canada)
 
+LivingWorks safeTalk Certified
+
 [ORCID iD: 0000-0002-0577-2689](https://orcid.org/0000-0002-0577-2689)
 
 [LinkedIn](https://linkedin.com/in/johnnyconsole) | [ResearchGate](https://researchgate.net/profile/Johnny-Console)
