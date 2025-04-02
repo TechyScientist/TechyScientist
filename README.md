@@ -28,7 +28,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>](https://www.docker.com) 
 [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="Google Cloud Platform"/>](https://cloud.google.com) 
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>](https://git-scm.com/) 
-[<img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" width="40" height="40" alt="GitHub"/>](https://github.com) 
+[<picture><source srcset="https://upload.vectorlogo.zone/logos/github/images/c53f393e-9094-4b00-9f76-e489cabbf2a9.svg" media="(prefers-color-scheme: dark)" width="40" height="40" alt="GitHub"/><img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" width="40" height="40" alt="GitHub"/></picture>](https://github.com) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>](https://www.w3.org/html) 
 [<img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/d4398a36-c378-4511-a508-106ded6cd69a.svg" width="40" height="40" alt="IntelliJ IDEA"/>](https://www.jetbrains.com/idea/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>](https://www.java.com) 
