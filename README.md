@@ -5,7 +5,7 @@
 
 ### Let's Connect
 
-[<img src="htps://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="40" alt="LinkedIn"/>](https://linkedin.com/in/johnnyconsole)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="40" alt="LinkedIn"/>](https://linkedin.com/in/johnnyconsole)
 
 ### Languages and Tools:
 
