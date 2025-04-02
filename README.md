@@ -5,8 +5,11 @@
 
 ### About Me
 📍 Sault Ste. Marie, ON
+
 💼 Sessional Instructor, Faculty of Computer Science & Technology, Algoma University
+
 🎓 Honours BSc Computer Science (Algoma University)
+
 🎓 MCS Student (Wilfrid Laurier University)
 
 ### Let's Connect
