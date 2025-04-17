@@ -10,7 +10,7 @@
 
 🎓 Honours BSc Computer Science (Algoma University)
 
-🎓 MCS Student (Wilfrid Laurier University)
+🎓 MCS (Wilfrid Laurier University)
 
 ### Let's Connect
 
