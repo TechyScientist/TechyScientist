@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Johnny!
 
 ### A Computer Science educator with a passion for mobile and enterprise development and cryptography
-![TechyScientist](https://komarev.com/ghpvc/?username=techyscientist&label=Profile%20views&color=0e75b6&style=flat)
 
 ### About Me
 📍 Sault Ste. Marie, ON
