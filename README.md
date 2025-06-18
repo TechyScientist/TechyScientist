@@ -44,4 +44,4 @@
 [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"/>](https://www.sqlite.org) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/>](https://developer.apple.com/swift) 
 [<img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="40" height="40" alt="Visual Studio"/>](https://visualstudio.microsoft.com) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Xcode.svg/1024px-Xcode.svg.png" width="40" height="40" alt="Xcode"/>](https://developer.apple.com/xcode) 
+[<img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="40" height="40" alt="Xcode"/>](https://developer.apple.com/xcode) 
