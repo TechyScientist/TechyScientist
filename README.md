@@ -31,6 +31,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>](https://www.w3.org/html) 
 [<img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/d4398a36-c378-4511-a508-106ded6cd69a.svg" width="40" height="40" alt="IntelliJ IDEA"/>](https://www.jetbrains.com/idea/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>](https://www.java.com) 
+[<img src="https://avatars.githubusercontent.com/u/23086798?s=200&v=4" width="40" height="40" alt="Java EE"/>](https://oracle.com/javaee)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [<img src="https://avatars.githubusercontent.com/u/8167581" width="40" height="40" alt="Kattis"/>](https://open.kattis.com) 
 [<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/>](https://kotlinlang.org) 
