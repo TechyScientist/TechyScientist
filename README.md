@@ -40,7 +40,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>](https://www.php.net) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" width="40" height="40" alt="PhpStorm"/>](https://www.jetbrains.com/phpstorm) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>](https://www.python.org") 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1280px-PyCharm_Icon.svg.png?20200803065702" width="40" height="40" alt="PyCharm"/>](https://www.jetbrains.com/pycharm) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" width="40" height="40" alt="PyCharm"/>](https://www.jetbrains.com/pycharm) 
 [<img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" width="40" height="40" alt="Raspberry Pi"/>](https://raspberrypi.com) 
 [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"/>](https://www.sqlite.org) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/>](https://developer.apple.com/swift) 
