@@ -38,7 +38,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>](https://www.linux.org) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>](https://www.mysql.com) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>](https://www.php.net) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" width="40" height="40" alt="PhpStorm"/>](https://www.jetbrains.com/phpstorm) 
+[<img src="https://raw.githubusercontent.com/detain/svg-logos/b02ee1ac30c7ff4757278337c95588b01ed0954b/svg/p/phpstorm-1.svg" width="40" height="40" alt="PhpStorm"/>](https://www.jetbrains.com/phpstorm) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>](https://www.python.org") 
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/pycharm.svg" width="40" height="40" alt="PyCharm"/>](https://www.jetbrains.com/pycharm) 
 [<img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" width="40" height="40" alt="Raspberry Pi"/>](https://raspberrypi.com) 
