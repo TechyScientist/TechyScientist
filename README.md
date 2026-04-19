@@ -17,7 +17,8 @@
 
 ### Languages and Tools
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/>](https://developer.android.com) [<img src="https://upload.vectorlogo.zone/logos/android_studio/images/ff189138-7a77-4565-85fe-ecf6b6cc9d73.svg" width="40" height="40" alt="Android Studio"/>](https://developer.android.com/studio) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/>](https://developer.android.com)
+[<img src="https://upload.vectorlogo.zone/logos/android_studio/images/ff189138-7a77-4565-85fe-ecf6b6cc9d73.svg" width="40" height="40" alt="Android Studio"/>](https://developer.android.com/studio) 
 [<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>](https://www.arduino.cc) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>](https://aws.amazon.com) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>](https://www.cprogramming.com) 
