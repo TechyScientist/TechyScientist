@@ -1,5 +1,5 @@
 <style>
-  img {
+  a {
       display: inline-block;
       margin: 5px;
   }
