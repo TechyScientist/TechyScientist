@@ -1,3 +1,10 @@
+<style>
+  img {
+      display: inline-block;
+      margin: 5px;
+  }
+</style>
+
 # 👋 Hi, I'm Johnny!
 
 ### A Computer Science educator with a passion for mobile and enterprise development and cryptography
