@@ -15,13 +15,9 @@
 
 ### Let's Connect
 
-<<<<<<< HEAD
-| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="40" alt="LinkedIn"/>](https://linkedin.com/in/johnnyconsole) |
-| --- |
-=======
+
 | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>](https://linkedin.com/in/johnnyconsole) |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
->>>>>>> b2d9f80 (Fix README table issue)
 
 ### My Research
 | [<img src="https://www.researchgate.net/images/bimi-logo.svg" width="40" height="40" alt="ResearchGate"/>](https://www.researchgate.net/profile/Johnny-Console) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/3840px-ORCID_iD.svg.png" width="40" height="40" alt="ORCID ID"/>](https://orcid.org/0000-0002-0577-2689) |
